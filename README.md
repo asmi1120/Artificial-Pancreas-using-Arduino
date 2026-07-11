@@ -74,6 +74,4 @@ The project demonstrates concepts applicable to:
 * Sensor-based automation
 * Real-time monitoring and control
 
-## Disclaimer
-
 This project is an educational model developed to demonstrate the basic feedback-control principle of an artificial pancreas. It is not a medical device and must not be used for actual glucose monitoring or insulin delivery.
