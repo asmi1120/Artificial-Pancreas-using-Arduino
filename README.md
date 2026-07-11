@@ -22,28 +22,6 @@ When the sensor value indicates a simulated high-glucose condition, the Arduino 
 
 This creates a closed-loop feedback mechanism similar to the basic control principle used in an artificial pancreas.
 
-## System Workflow
-
-Sensor Data Acquisition
-↓
-Arduino ADC Processing
-↓
-Threshold Comparison
-↓
-High Simulated Glucose Detected
-↓
-MOSFET Switching
-↓
-Pump Activated
-↓
-Corrective Liquid Delivered
-↓
-Sensor Value Re-evaluated
-↓
-Target Level Reached
-↓
-Pump Deactivated
-
 ## Hardware Components
 
 * Arduino UNO
